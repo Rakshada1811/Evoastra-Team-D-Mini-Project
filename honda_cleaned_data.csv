@@ -1,0 +1,28 @@
+Model,Variant,Price,Fuel,Engine,Transmission,Mileage,Seats
+Honda City,1.5 SV-R,1195300.0,Petrol,1498,Manual,17.0,5
+Honda City,1.5 V-R,1269500.0,Petrol,1498,Manual,17.0,5
+Honda City,1.5 VX-R,1372900.0,Petrol,1498,Manual,17.0,5
+Honda City,1.5 V-R CVT,1390200.0,Petrol,1498,Automatic,18.0,5
+Honda City,1.5 Sports CVT,1437500.0,Petrol,1498,Automatic,18.0,5
+Honda City,1.5 ZX-R,1486800.0,Petrol,1498,Manual,17.0,5
+Honda City,1.5 VX-R CVT,1493500.0,Petrol,1498,Automatic,18.0,5
+Honda City,1.5 ZX-R CVT,1607400.0,Petrol,1498,Automatic,18.0,5
+Honda City,1.5 ZX-R eHEV,1948200.0,Hybrid,1498,Automatic,27.0,5
+Honda Elevate,SV-R,1099900.0,Petrol,1498,Manual,15.0,5
+Honda Elevate,V-R,1196200.0,Petrol,1498,Manual,15.0,5
+Honda Elevate,V-R CVT,1312100.0,Petrol,1498,Automatic,16.0,5
+Honda Elevate,VX-R,1364900.0,Petrol,1498,Manual,15.0,5
+Honda Elevate,VX-R CVT,1480800.0,Petrol,1498,Automatic,16.0,5
+Honda Elevate,ZX-R,1487800.0,Petrol,1498,Manual,15.0,5
+Honda Elevate,ZX Black Edition,1497500.0,Petrol,1498,Manual,15.0,5
+Honda Elevate,ADV Edition,1498000.0,Petrol,1498,Automatic,16.9,5
+Honda Elevate,ZX-R CVT,1605600.0,Petrol,1498,Automatic,16.0,5
+Honda Elevate,ADV Edition CVT,1615800.0,Petrol,1498,Automatic,16.9,5
+Honda Elevate,ZX Black Edition CVT,1623000.0,Petrol,1498,Automatic,16.0,5
+Honda Elevate,ZX-R CVT Dual Tone,1624900.0,Petrol,1498,Automatic,16.0,5
+Honda Amaze,V,740800.0,Petrol,1199,Manual,18.0,5
+Honda Amaze,VX,841400.0,Petrol,1199,Manual,18.0,5
+Honda Amaze,V CVT,855100.0,Petrol,1199,Automatic,19.0,5
+Honda Amaze,ZX,914600.0,Petrol,1199,Manual,18.0,5
+Honda Amaze,VX CVT,914600.0,Petrol,1199,Automatic,19.0,5
+Honda Amaze,ZX CVT,999900.0,Petrol,1199,Automatic,19.0,5
