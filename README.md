@@ -1,65 +1,42 @@
-Evoastra Team D – Mini Project
+*Evoastra Team D – Mini Project*
+
 Web Scraping Honda Car Variants from AckoDrive.com
 
-This repository contains the mini-project completed as part of the Evoastra internship program. The objective of the project was to scrape variant-level specifications of Honda cars from AckoDrive.com using Python-based automation and data processing tools. The final output includes raw and cleaned datasets, a documented Jupyter notebook, the project report, and the final presentation.
+This repository contains the mini-project completed under the Evoastra internship program. The objective was to scrape detailed specifications of Honda car variants from AckoDrive.com using Python, Selenium, BeautifulSoup, and Pandas. The outputs include raw and cleaned datasets, a fully documented notebook, the report, and the final presentation.
 
 Project Overview
 
-The project automates the extraction of model-wise and variant-wise information for Honda cars. Selenium was used to interact with dynamic web pages and load variant sections, while BeautifulSoup and regular expressions were utilized to parse HTML content and extract structured data. The dataset was then standardized using Pandas and exported for analysis.
+The project automates variant-level data extraction from AckoDrive.com. Selenium was used to load interactive elements and navigate through variant pages. BeautifulSoup and regular expressions handled HTML parsing, and Pandas was used for data cleaning and standardization.
 
-Data Extracted
+*Data Extracted:*
+-Model Name
+-Variant Name
+-Price
+-Fuel Type
+-Engine Capacity
+-Transmission Type
+-Mileage
+-Seating Capacity
 
-For each Honda car variant, the following fields were collected:
+*Technical Stack:*
+-Python
+-Selenium WebDriver
+-BeautifulSoup (bs4)
+-Requests
+-Regular Expressions
+-Pandas
+-Google Colab
 
-Model Name
+*Workflow Summary:*
+-Fetch Honda model list from AckoDrive.com
+-Use Selenium to load all available variants
+-Extract specifications for each variant
+-Handle dynamic content and irregularities
+-Clean and standardize data using Pandas
+-Generate raw and cleaned CSV files
+-Compile notebook, report, and presentation
 
-Variant Name
-
-Price
-
-Fuel Type
-
-Engine Capacity
-
-Transmission Type
-
-Mileage
-
-Seating Capacity
-
-Technical Stack
-
-Python
-
-Selenium WebDriver
-
-BeautifulSoup (bs4)
-
-Requests
-
-Regular Expressions
-
-Pandas
-
-Google Colab
-
-Workflow Summary
-
-Fetch Honda model list from AckoDrive.com
-
-Load all variants using Selenium interactions
-
-Extract required specifications for each variant
-
-Handle errors, dynamic content, and skipped elements
-
-Clean and standardize the dataset using Pandas
-
-Generate raw and cleaned CSV files
-
-Document the full workflow (notebook, report, presentation)
-
-Repository Structure
+*Repository Structure:*
 Evoastra-Team-D-Mini-Project/
 │
 ├── notebook/
@@ -77,29 +54,10 @@ Evoastra-Team-D-Mini-Project/
 │
 └── README.md
 
-Team Roles
-
-Team Lead: Rakshada
-
-Co-Lead: Subham
-
-Web Scraping: Anurag, Nazim, Aravind
-
-Data Cleaning: Rakesh, Sai Kiran
-
-Report Writing: Subham, Rakshada
-
-Presentation: Anurag, Rakshada
-
-How to Run the Notebook
-
-Install required dependencies:
-
-pip install selenium beautifulsoup4 pandas requests
-
-
-Install ChromeDriver compatible with your Chrome version.
-
-Run the notebook in Google Colab or any Jupyter environment.
-
-Generated CSV files will be saved automatically in the /data directory.
+*Team Roles:*
+*Team Lead:* Rakshada
+*Co-Lead:* Subham
+*Web Scraping:* Anurag, Nazim, Aravind
+*Data Cleaning:* Rakesh, Sai Kiran
+*Report Writing:* Subham, Rakshada
+*Presentation:* Rakshada
